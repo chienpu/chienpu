@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Nora Huang (Chien-Pu Huang)
 
-<!--
-**chienpu/chienpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PhD Candidate @ National Taiwan University  
+🔬 Specializing in AEC Informatics, Semantic Automation, and FAIR Data Infrastructure
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Research Focus
+
+I build ontology-driven automation frameworks for the built environment—bridging BIM, IoT, carbon data, and FM systems through:
+
+- 🔗 **Semantic Digital Twins** for predictive maintenance and lifecycle carbon tracking  
+- 🧠 **Graph-Based Reasoning** using Neo4j and Python  
+- ⚙️ **Workflow Automation** via Power Automate and modular ontologies  
+- 🧩 **FAIR + AI-Ready Data Pipelines** aligned with SSN/SOSA, GHG Protocol, BS EN 15978  
+
+---
+
+### 📘 Featured Repository
+👉 [`public-STRIDE-sample`](https://github.com/chienpu/public-STRIDE-sample) – A showcase of STRIDE framework  
+📄 Research site & demo (coming soon)
+
+---
+
+Let’s build automation that understands what it’s doing 🌱

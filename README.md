@@ -12,7 +12,20 @@ I build ontology-driven automation frameworks for the built environment—bridgi
 - 🔗 **Semantic Digital Twins** for predictive maintenance and lifecycle carbon tracking  
 - 🧠 **Graph-Based Reasoning** using Neo4j and Python  
 - ⚙️ **Workflow Automation** via Power Automate and modular ontologies  
-- 🧩 **FAIR + AI-Ready Data Pipelines** aligned with SSN/SOSA, GHG Protocol, BS EN 15978  
+- 🧩 **FAIR + AI-Ready Data Pipelines** aligned with SSN/SOSA, GHG Protocol, BS EN 15978
+
+---
+
+### 🔑 Research Keywords
+
+- Ontology-Driven Automation  
+- Semantic Digital Twins  
+- AI-Ready Data Integration  
+- Knowledge Graphs in Construction Informatics  
+- Lifecycle Interoperability Engineering
+- Graph Reasoning
+- Explainable Workflow Automation
+- Interoperable Knowledge Graphs with Modular Ontologies
 
 ---
 

@@ -55,3 +55,28 @@ My work is characterized by the following directions:
 - BIM–IoT–FM Semantic Integration  
 - Carbon-Smart Digital Twins  
 - FAIR and AI-Ready Built-Environment Data
+
+---
+
+## 🔓 Open Research Artifacts (Public Repositories)
+
+To support transparency, reproducibility, and reuse, selected research artifacts are publicly available:
+
+- **Semantic Action Management (SAM) – PhD Research Repository**  
+  https://github.com/chienpu/public-phd-sam  
+  *Includes ontology models, semantic structures, reasoning logic, and validation materials developed during my PhD research.*
+
+- **STRIDE Framework – Sample Implementation**  
+  https://github.com/chienpu/public-STRIDE-sample  
+  *Provides a reference implementation of the STRIDE framework, illustrating graph-native semantic reasoning and executable automation workflows.*
+
+These repositories are intended as **research artifacts** rather than production systems, and are provided to facilitate academic review, methodological transparency, and future research extension.
+
+- Semantic Action Management (SAM)  
+- Graph-Native Knowledge Graphs  
+- Lifecycle Interoperability Engineering  
+- Explainable Graph Reasoning  
+- Modular Ontologies and Domain Packs  
+- BIM–IoT–FM Semantic Integration  
+- Carbon-Smart Digital Twins  
+- FAIR and AI-Ready Built-Environment Data

@@ -24,7 +24,7 @@ My work is characterized by the following directions:
   Leveraging Neo4j-based knowledge graphs and traversal-based reasoning to support explainable, real-time decision logic across BIM models, sensor streams, and lifecycle data.
 
 - **Lifecycle & Carbon-Smart Integration**  
-  Supporting end-to-end lifecycle interoperability aligned with **BS EN 15978**, **GHG Protocol**, and sustainability-driven decision-making processes.
+  Supporting end-to-end lifecycle interoperability aligned with **BS EN 15978** and the **GHG Protocol**, enabling sustainability-driven decision-making workflows.
 
 - **FAIR & AI-Ready Data Pipelines**  
   Structuring built-environment data to be interoperable, traceable, and reusable, while remaining ready for downstream AI analytics and automation under semantic governance.
@@ -39,7 +39,7 @@ My work is characterized by the following directions:
 - Knowledge Graphs for BIM–IoT–FM Integration  
 - Lifecycle Carbon and Sustainability Informatics  
 - Explainable and Governance-Aware Workflow Automation  
-- FAIR and AI-Ready Built-Environment Data Infrastructure
+- FAIR and AI-Ready Built-Environment Data Infrastructure  
 
 ---
 
@@ -54,7 +54,7 @@ My work is characterized by the following directions:
 - Modular Ontologies and Domain Packs  
 - BIM–IoT–FM Semantic Integration  
 - Carbon-Smart Digital Twins  
-- FAIR and AI-Ready Built-Environment Data
+- FAIR and AI-Ready Built-Environment Data  
 
 ---
 
@@ -64,19 +64,64 @@ To support transparency, reproducibility, and reuse, selected research artifacts
 
 - **Semantic Action Management (SAM) – PhD Research Repository**  
   https://github.com/chienpu/public-phd-sam  
-  *Includes ontology models, semantic structures, reasoning logic, and validation materials developed during my PhD research.*
+  *Ontology models, semantic structures, reasoning logic, and validation materials developed during PhD research.*
 
 - **STRIDE Framework – Sample Implementation**  
   https://github.com/chienpu/public-STRIDE-sample  
-  *Provides a reference implementation of the STRIDE framework, illustrating graph-native semantic reasoning and executable automation workflows.*
+  *A reference implementation illustrating graph-native semantic reasoning and executable automation workflows.*
 
-These repositories are intended as **research artifacts** rather than production systems, and are provided to facilitate academic review, methodological transparency, and future research extension.
+These repositories are provided as **research artifacts**, not production-ready systems, and are intended to facilitate academic review, methodological transparency, reproducibility, and future research extension.
 
-- Semantic Action Management (SAM)  
-- Graph-Native Knowledge Graphs  
-- Lifecycle Interoperability Engineering  
-- Explainable Graph Reasoning  
-- Modular Ontologies and Domain Packs  
-- BIM–IoT–FM Semantic Integration  
-- Carbon-Smart Digital Twins  
-- FAIR and AI-Ready Built-Environment Data
+---
+
+## 📌 Citation & Usage
+
+### 📖 How to Cite
+
+If you use, reference, or build upon the concepts, ontology structures, semantic models, or workflows provided in these repositories, **please cite the relevant publications listed below**, as appropriate to your use case.
+
+### 🔬 Intended Use
+
+- Academic research and education  
+- Methodological comparison and extension  
+- Reproducibility and validation studies  
+
+For **substantial reuse, applied deployment, or collaborative research**, please feel free to contact the author.
+
+---
+
+## 🧾 Selected Publications
+
+### PhD Dissertation
+
+Huang, C.-P. (2025).  
+*Graph-Native Semantic Action Management for Operations and Maintenance Automation in Smart Built Environments*  
+(Doctoral dissertation, National Taiwan University).  
+https://doi.org/10.6342/NTU202504835
+
+### Journal Article – Predictive Maintenance
+
+Huang, C.-P., & Hsieh, S.-H. (2026).  
+Semantic reasoning and integration for automating predictive maintenance in smart facility management.  
+*Advanced Engineering Informatics, 71*, 104240.  
+https://doi.org/10.1016/j.aei.2025.104240
+
+### Conference Paper – Lifecycle Carbon Management (CIB 2025)
+
+Huang, C.-P., & Hsieh, S.-H. (2025).  
+Neo4j-powered workflow for lifecycle carbon management: The NTU campus case study.  
+In *Proceedings of the CIB World Building Congress 2025*.  
+
+### Conference Paper – BIM–FM Integration (ASCE i3CE 2025)
+
+Huang, C.-P., & Hsieh, S.-H. (2025).  
+Ontology-driven automation for BIM–FM data integration using Neo4j, Python, and workflow platforms.  
+In *Proceedings of the ASCE International Conference on Computing in Civil Engineering (i3CE 2025)*,  
+New Orleans, LA, United States.
+
+---
+
+## 📬 Contact
+
+For academic collaboration, methodological discussion, or applied research inquiries,  
+please contact **Chien-Pu Huang**.

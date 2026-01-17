@@ -107,18 +107,12 @@ Semantic reasoning and integration for automating predictive maintenance in smar
 https://doi.org/10.1016/j.aei.2025.104240
 
 ### Conference Paper – Lifecycle Carbon Management (CIB 2025)
-
-Huang, C.-P., & Hsieh, S.-H. (2025).  
-Neo4j-powered workflow for lifecycle carbon management: The NTU campus case study.  
-In *Proceedings of the CIB World Building Congress 2025*.  
+Huang, Chien-Pu and Hsieh, Shang-Hsien (2025) "Neo4j-Powered Workflow for Lifecycle Carbon Management: The NTU Campus Case Study," CIB Conferences: Vol. 1 Article 32.
+DOI: https://doi.org/10.7771/3067-4883.2108
 
 ### Conference Paper – BIM–FM Integration (ASCE i3CE 2025)
-
-Huang, C.-P., & Hsieh, S.-H. (2025).  
-Ontology-driven automation for BIM–FM data integration using Neo4j, Python, and workflow platforms.  
-In *Proceedings of the ASCE International Conference on Computing in Civil Engineering (i3CE 2025)*,  
+Huang, Chien-Pu and Hsieh, Shang-Hsien (2025) "Ontology-driven automation for BIM–FM data integration using Neo4j, Python, and workflow platforms," In *Proceedings of the ASCE International Conference on Computing in Civil Engineering (i3CE 2025)*,  
 New Orleans, LA, United States.
-
 ---
 
 ## 📬 Contact

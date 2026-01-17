@@ -1,33 +1,24 @@
 ## 👋 Hi, I'm Nora Huang (Chien-Pu Huang)
 
-🎓 PhD Candidate @ National Taiwan University  
-🔬 Specializing in AEC Informatics, Semantic Automation, and FAIR Data Infrastructure
+🎓 **PhD, Civil Engineering (Engineering Informatics)**  
+🏛 **Postdoctoral Researcher @ NTU BIM Center, National Taiwan University**
+
+🔬 I work on **Semantic Digital Twins, Ontology-Driven Automation, and Action-Oriented Knowledge Graphs** for smart and sustainable built environments.
 
 ---
 
-### 🔍 Research Focus
+## 🔍 Research Profile
 
-I build ontology-driven automation frameworks for the built environment—bridging BIM, IoT, carbon data, and FM systems through:
+My research focuses on transforming fragmented **BIM–IoT–FM** data into **executable, explainable, and reusable digital-twin workflows**.  
+I design **ontology-driven semantic execution frameworks** that bridge **information modeling, graph-based reasoning, and operational action**, enabling predictive maintenance, lifecycle carbon management, and governance-aware automation.
 
-- 🔗 **Semantic Digital Twins** for predictive maintenance and lifecycle carbon tracking  
-- 🧠 **Graph-Based Reasoning** using Neo4j and Python  
-- ⚙️ **Workflow Automation** via Power Automate and modular ontologies  
-- 🧩 **FAIR + AI-Ready Data Pipelines** aligned with SSN/SOSA, GHG Protocol, BS EN 15978
+My work is characterized by the following directions:
 
----
+- **Action-Oriented Semantic Digital Twins**  
+  Moving beyond data-centric digital twins toward *executable twins* that explicitly connect semantic reasoning with real-world actions (e.g., predictive maintenance, procurement decisions, carbon mitigation workflows).
 
-### 🔑 Research Keywords
-
-- Ontology-Driven Automation  
-- Semantic Digital Twins  
-- AI-Ready Data Integration  
-- Knowledge Graphs in Construction Informatics  
-- Lifecycle Interoperability Engineering
-- Graph Reasoning
-- Explainable Workflow Automation
-- Interoperable Knowledge Graphs with Modular Ontologies
-
----
+- **Ontology-Driven Automation & Modular Domain Packs**  
+  Developing reusable sem
 
 ### 📘 Featured Repository
 👉 [`public-STRIDE-sample`](https://github.com/chienpu/public-STRIDE-sample) – A showcase of STRIDE framework  

@@ -18,12 +18,40 @@ My work is characterized by the following directions:
   Moving beyond data-centric digital twins toward *executable twins* that explicitly connect semantic reasoning with real-world actions (e.g., predictive maintenance, procurement decisions, carbon mitigation workflows).
 
 - **Ontology-Driven Automation & Modular Domain Packs**  
-  Developing reusable sem
+  Developing reusable semantic capability units that encapsulate ontologies, mappings, reasoning rules, and action templates, enabling cross-domain automation without hard-coded workflows.
 
-### 📘 Featured Repository
-👉 [`public-STRIDE-sample`](https://github.com/chienpu/public-STRIDE-sample) – A showcase of STRIDE framework  
-📄 Research site & demo (coming soon)
+- **Graph-Native Reasoning Infrastructure**  
+  Leveraging Neo4j-based knowledge graphs and traversal-based reasoning to support explainable, real-time decision logic across BIM models, sensor streams, and lifecycle data.
+
+- **Lifecycle & Carbon-Smart Integration**  
+  Supporting end-to-end lifecycle interoperability aligned with **BS EN 15978**, **GHG Protocol**, and sustainability-driven decision-making processes.
+
+- **FAIR & AI-Ready Data Pipelines**  
+  Structuring built-environment data to be interoperable, traceable, and reusable, while remaining ready for downstream AI analytics and automation under semantic governance.
 
 ---
 
-Let’s build automation that understands what it’s doing 🌱
+## 🧠 Core Research Themes
+
+- Semantic Digital Twins (Executable and Action-Oriented)  
+- Ontology-Driven and Graph-Native Automation Frameworks  
+- Semantic Action Management (SAM) and TIAA-Based Reasoning  
+- Knowledge Graphs for BIM–IoT–FM Integration  
+- Lifecycle Carbon and Sustainability Informatics  
+- Explainable and Governance-Aware Workflow Automation  
+- FAIR and AI-Ready Built-Environment Data Infrastructure
+
+---
+
+## 🔑 Research Keywords
+
+- Ontology-Driven Automation  
+- Semantic Digital Twins  
+- Semantic Action Management (SAM)  
+- Graph-Native Knowledge Graphs  
+- Lifecycle Interoperability Engineering  
+- Explainable Graph Reasoning  
+- Modular Ontologies and Domain Packs  
+- BIM–IoT–FM Semantic Integration  
+- Carbon-Smart Digital Twins  
+- FAIR and AI-Ready Built-Environment Data
